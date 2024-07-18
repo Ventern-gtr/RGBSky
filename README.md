@@ -20,7 +20,7 @@ https://github.com/BzzzThe18th/MonkeModManager/releases/tag/2.0.3
 3. copy these settings exactly into the GUI [image below]
 5. if gorilla tag doesnt show up close and reopen gorilla tag and then click refresh
 
-![image](https://github.com/user-attachments/assets/d86f98f4-ab95-4233-844f-9fbd167a7664)
+![image](https://github.com/user-attachments/assets/1d759498-86b5-4db6-aa8a-205753e8ef55)
 
 # LEGAL
 this product is not affiliated with gorilla tag or 
